@@ -40,7 +40,7 @@ The barrier for solving the second version of the environment is slightly differ
 
 The environment is considered solved, when the average (over 100 episodes) of those average scores is at least +30. 
 
-### Getting Started and Dependencies
+### Getting Started and Installing Dependencies
 
 1. Set up a Python 3.6 Environment to install [Dependencies](https://github.com/udacity/deep-reinforcement-learning#dependencies) involving PyTorch, the ML-Agent toolkit and a few more Python packages.
 
