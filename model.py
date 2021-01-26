@@ -1,3 +1,6 @@
+"""
+    to do: this model could be further improved by adding batch normalization layers
+"""
 import numpy as np
 
 import torch
